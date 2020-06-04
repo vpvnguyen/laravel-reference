@@ -49,15 +49,11 @@ brew install php@7.x
 composer global require laravel/installer
 ```
 
-### Issues:
-
-1. `zsh: command not found: laravel`
-
-- ZSH won't expand the ~ on PATH. Try this instead:
-
-```
-export PATH="$HOME/.composer/vendor/bin:$PATH"
-```
+> Issues:
+>
+> 1. `zsh: command not found: laravel`
+>    ZSH won't expand the ~ on PATH. Try this instead:
+>    `export PATH="$HOME/.composer/vendor/bin:$PATH"`
 
 - Verify Laravel:
 
