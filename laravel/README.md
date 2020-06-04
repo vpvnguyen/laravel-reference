@@ -41,3 +41,5 @@ php artisan
 ```
 php artisan serve
 ```
+
+-   Default server is served on `localhost:8000`
