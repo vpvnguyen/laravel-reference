@@ -23,7 +23,12 @@ php -r "unlink('composer-setup.php');"
 mv composer.phar /usr/local/bin/composer
 ```
 
-- Verify install globally by running in terminal: `composer`
+- Verify composer global
+
+```
+composer
+```
+
 - Install node.js | https://nodejs.org/en/download/
 
 - Verify node.js
