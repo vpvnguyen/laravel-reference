@@ -1,10 +1,12 @@
 # laravel-reference
 
-## Install Laravel Globally (Mac OS)
+Learn Laravel for PHP on MacOS :)
 
-### Requirements
+## Requirements
 
 - Homebrew
+
+## Installation (MacOS)
 
 - Install composer:
   > https://getcomposer.org/doc/00-intro.md
@@ -47,7 +49,7 @@ brew install php@7.x
 composer global require laravel/installer
 ```
 
-#### Issues:
+### Issues:
 
 1. `zsh: command not found: laravel`
 
