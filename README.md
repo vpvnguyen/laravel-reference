@@ -85,3 +85,11 @@ Run application
 ```php
 php artisan serve
 ```
+
+Generate a key
+
+```php
+php artisan key:generate
+```
+
+Navigate to: `http://127.0.0.1:8000/`
