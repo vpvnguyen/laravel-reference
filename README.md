@@ -69,3 +69,19 @@ laravel
 ```
 laravel new <project_name>
 ```
+
+## Project Setup
+
+Install modules
+
+```php
+composer install
+```
+
+Create `.env` from `.env.example`
+
+Run application
+
+```php
+php artisan serve
+```
